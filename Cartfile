@@ -1,1 +1,1 @@
-github "pinterest/PINRemoteImage" "3.0.0-beta.2"
+git "git@git.llsapp.com:ios/PINRemoteImage.git" "master"
